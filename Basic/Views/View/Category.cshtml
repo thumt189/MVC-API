@@ -1,0 +1,150 @@
+﻿@{
+    ViewBag.Title = "Danh mục";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="~/Scripts/controller/CategoryController.js"></script>
+
+<div class="panel panel-flat" ng-controller="categoryCtrl as category">
+    <div class="panel-heading">
+        <button type="button" class="jui-button-icon-left ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-primary" role="button">
+            <i class="fa fa-plus"></i>
+            <span class="ui-button-text" data-toggle="modal" data-target="#modalInsert">
+               &nbsp; Thêm mới
+            </span>
+        </button>
+        <div class="heading-elements">
+            <ul class="icons-list">
+                <li><a data-action="collapse"></a></li>
+                <li><a data-action="reload"></a></li>
+                <li><a data-action="close"></a></li>
+            </ul>
+        </div>
+    </div>
+    <form class="form-horizontal">
+        <div class="form-group">
+            <div class="row">
+                <label class="control-label col-sm-2">&nbsp;</label>
+                <label class="control-label col-sm-2">Lọc</label>
+                <div class="col-sm-6">
+                    <input type="text"
+                           class="form-control"
+                           placeholder="Nhập dl lọc"
+                           ng-model="filter">
+                </div>
+            
+            </div>
+        </div>
+    </form>
+    <table class="table datatable-basic">
+        <thead>
+            <tr>
+                <th>STT</th>
+                <th>Tên danh mục</th>
+                <th class="text-center">Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="item in category.data | filter:filter">
+                <td>{{$index + 1}}</td>
+                <td>{{item.name}}</td>
+                <td class="text-center">
+                    <button class="btn btn-warning" data-toggle="modal" data-target="#modalEdit" ng-click="category.setEditModel(item)">Sửa</button>
+                    <button class="btn btn-danger" data-toggle="modal" data-target="#modalDelete" ng-click="category.setDeleteModel(item)">Xóa</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div id="modalEdit" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h5 class="modal-title">Bạn muốn sửa</h5>
+                </div>
+
+                <div class="modal-body">
+                    <form class="form-horizontal" id="editForm" ng-submit="category.updateData()">
+                        <div class="form-group">
+                            <label class="control-label col-sm-3">Tên danh mục</label>
+                            <div class="col-sm-9">
+                                <input type="text"
+                                       class="form-control"
+                                       placeholder="Nhập danh mục"
+                                       ng-model="category.edit_model.name"
+                                       required>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="modal-footer">
+                    <button class="btn btn-link" data-dismiss="modal">Đóng</button>
+                    <button class="btn btn-primary" type="submit" value="submit" form="editForm">Lưu</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="modalDelete" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h5 class="modal-title">Bạn muốn xóa</h5>
+                </div>
+
+                <div class="modal-body">
+                    <form class="form-horizontal" id="deleteForm" ng-submit="category.deleteData()">
+                        <div class="form-group">
+                            <label class="control-label col-sm-3">Tên danh mục</label>
+                            <div class="col-sm-9">
+                                <input type="text"
+                                       class="form-control"
+                                       placeholder="Nhập danh mục"
+                                       ng-model="category.delete_model.name"
+                                       readonly>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="modal-footer">
+                    <button class="btn btn-link" data-dismiss="modal">Đóng</button>
+                    <button class="btn btn-primary" type="submit" value="submit" form="deleteForm">Lưu</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="modalInsert" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h5 class="modal-title">Thêm mới</h5>
+                </div>
+
+                <div class="modal-body">
+                    <form class="form-horizontal" id="insertForm" ng-submit="category.insertData()">
+                        <div class="form-group">
+                            <label class="control-label col-sm-3">Tên danh mục</label>
+                            <div class="col-sm-9">
+                                <input type="text"
+                                       class="form-control"
+                                       placeholder="Nhập danh mục"
+                                       ng-model="category.insert_model.name"
+                                       required>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="modal-footer">
+                    <button class="btn btn-link" data-dismiss="modal">Đóng</button>
+                    <button class="btn btn-primary" type="submit" value="submit" form="insertForm">Lưu</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

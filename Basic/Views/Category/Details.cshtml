@@ -1,0 +1,22 @@
+﻿@model Basic.Models.category
+
+@{
+    ViewBag.Title = "Danh mục";
+    ViewBag.ChildUrl = "Danh sách";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="panel panel-body border-top-primary">
+    <div class="form-group">
+        <label class="control-label col-lg-2 cursor-pointer" for="@Html.DisplayNameFor(model => model.name)">Tên sản phẩm</label>
+        <div class="col-lg-8">
+            @Html.DisplayFor(model => model.name)
+        </div>
+    </div>
+    <br />
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</div>
+

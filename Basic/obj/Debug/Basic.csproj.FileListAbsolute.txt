@@ -1,0 +1,167 @@
+E:\MVC\Basic\Basic\bin\Basic.dll.config
+E:\MVC\Basic\Basic\bin\Basic.dll
+E:\MVC\Basic\Basic\bin\Basic.pdb
+E:\MVC\Basic\Basic\bin\Antlr3.Runtime.dll
+E:\MVC\Basic\Basic\bin\EntityFramework.dll
+E:\MVC\Basic\Basic\bin\EntityFramework.SqlServer.dll
+E:\MVC\Basic\Basic\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MVC\Basic\Basic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MVC\Basic\Basic\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.dll
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.Security.dll
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.Security.Google.dll
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MVC\Basic\Basic\bin\Microsoft.Web.Infrastructure.dll
+E:\MVC\Basic\Basic\bin\Newtonsoft.Json.dll
+E:\MVC\Basic\Basic\bin\Owin.dll
+E:\MVC\Basic\Basic\bin\System.Web.Helpers.dll
+E:\MVC\Basic\Basic\bin\System.Web.Mvc.dll
+E:\MVC\Basic\Basic\bin\System.Web.Optimization.dll
+E:\MVC\Basic\Basic\bin\System.Web.Razor.dll
+E:\MVC\Basic\Basic\bin\System.Web.WebPages.Deployment.dll
+E:\MVC\Basic\Basic\bin\System.Web.WebPages.dll
+E:\MVC\Basic\Basic\bin\System.Web.WebPages.Razor.dll
+E:\MVC\Basic\Basic\bin\WebGrease.dll
+E:\MVC\Basic\Basic\bin\System.Web.Helpers.xml
+E:\MVC\Basic\Basic\bin\System.Web.Mvc.xml
+E:\MVC\Basic\Basic\bin\System.Web.Optimization.xml
+E:\MVC\Basic\Basic\bin\System.Web.Razor.xml
+E:\MVC\Basic\Basic\bin\System.Web.WebPages.xml
+E:\MVC\Basic\Basic\bin\System.Web.WebPages.Deployment.xml
+E:\MVC\Basic\Basic\bin\System.Web.WebPages.Razor.xml
+E:\MVC\Basic\Basic\bin\Newtonsoft.Json.xml
+E:\MVC\Basic\Basic\bin\Antlr3.Runtime.pdb
+E:\MVC\Basic\Basic\bin\EntityFramework.xml
+E:\MVC\Basic\Basic\bin\EntityFramework.SqlServer.xml
+E:\MVC\Basic\Basic\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MVC\Basic\Basic\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MVC\Basic\Basic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.xml
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.Security.xml
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.Security.Google.xml
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MVC\Basic\Basic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MVC\Basic\Basic\obj\Debug\Basic.csprojResolveAssemblyReference.cache
+E:\MVC\Basic\Basic\obj\Debug\Basic.dll
+E:\MVC\Basic\Basic\obj\Debug\Basic.pdb
+D:\Visual Studio\Project\basic\Basic\obj\Debug\Basic.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Project\basic\Basic\obj\Debug\Basic.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\basic\Basic\obj\Debug\Basic.dll
+D:\Visual Studio\Project\basic\Basic\obj\Debug\Basic.pdb
+D:\Visual Studio\Project\basic\Basic\bin\Basic.dll.config
+D:\Visual Studio\Project\basic\Basic\bin\Basic.dll
+D:\Visual Studio\Project\basic\Basic\bin\Basic.pdb
+D:\Visual Studio\Project\basic\Basic\bin\Antlr3.Runtime.dll
+D:\Visual Studio\Project\basic\Basic\bin\EntityFramework.dll
+D:\Visual Studio\Project\basic\Basic\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.dll
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.Security.dll
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.Security.Google.dll
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio\Project\basic\Basic\bin\Newtonsoft.Json.dll
+D:\Visual Studio\Project\basic\Basic\bin\Owin.dll
+D:\Visual Studio\Project\basic\Basic\bin\System.Web.Helpers.dll
+D:\Visual Studio\Project\basic\Basic\bin\System.Web.Mvc.dll
+D:\Visual Studio\Project\basic\Basic\bin\System.Web.Optimization.dll
+D:\Visual Studio\Project\basic\Basic\bin\System.Web.Razor.dll
+D:\Visual Studio\Project\basic\Basic\bin\System.Web.WebPages.Deployment.dll
+D:\Visual Studio\Project\basic\Basic\bin\System.Web.WebPages.dll
+D:\Visual Studio\Project\basic\Basic\bin\System.Web.WebPages.Razor.dll
+D:\Visual Studio\Project\basic\Basic\bin\WebGrease.dll
+D:\Visual Studio\Project\basic\Basic\bin\System.Web.Helpers.xml
+D:\Visual Studio\Project\basic\Basic\bin\System.Web.Mvc.xml
+D:\Visual Studio\Project\basic\Basic\bin\System.Web.Optimization.xml
+D:\Visual Studio\Project\basic\Basic\bin\System.Web.Razor.xml
+D:\Visual Studio\Project\basic\Basic\bin\System.Web.WebPages.xml
+D:\Visual Studio\Project\basic\Basic\bin\System.Web.WebPages.Deployment.xml
+D:\Visual Studio\Project\basic\Basic\bin\System.Web.WebPages.Razor.xml
+D:\Visual Studio\Project\basic\Basic\bin\Newtonsoft.Json.xml
+D:\Visual Studio\Project\basic\Basic\bin\Antlr3.Runtime.pdb
+D:\Visual Studio\Project\basic\Basic\bin\EntityFramework.xml
+D:\Visual Studio\Project\basic\Basic\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.xml
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.Security.xml
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.Security.Google.xml
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Visual Studio\Project\basic\Basic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Visual Studio\Project\basic\Basic\obj\Debug\Basic.csproj.CopyComplete
+E:\MVC\mvc\Basic\Basic\bin\Basic.dll.config
+E:\MVC\mvc\Basic\Basic\bin\Basic.dll
+E:\MVC\mvc\Basic\Basic\bin\Basic.pdb
+E:\MVC\mvc\Basic\Basic\bin\Antlr3.Runtime.dll
+E:\MVC\mvc\Basic\Basic\bin\EntityFramework.dll
+E:\MVC\mvc\Basic\Basic\bin\EntityFramework.SqlServer.dll
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.dll
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.Security.dll
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.Security.Google.dll
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Web.Infrastructure.dll
+E:\MVC\mvc\Basic\Basic\bin\Newtonsoft.Json.dll
+E:\MVC\mvc\Basic\Basic\bin\Owin.dll
+E:\MVC\mvc\Basic\Basic\bin\System.Web.Helpers.dll
+E:\MVC\mvc\Basic\Basic\bin\System.Web.Mvc.dll
+E:\MVC\mvc\Basic\Basic\bin\System.Web.Optimization.dll
+E:\MVC\mvc\Basic\Basic\bin\System.Web.Razor.dll
+E:\MVC\mvc\Basic\Basic\bin\System.Web.WebPages.Deployment.dll
+E:\MVC\mvc\Basic\Basic\bin\System.Web.WebPages.dll
+E:\MVC\mvc\Basic\Basic\bin\System.Web.WebPages.Razor.dll
+E:\MVC\mvc\Basic\Basic\bin\WebGrease.dll
+E:\MVC\mvc\Basic\Basic\bin\System.Web.Helpers.xml
+E:\MVC\mvc\Basic\Basic\bin\System.Web.Mvc.xml
+E:\MVC\mvc\Basic\Basic\bin\System.Web.Optimization.xml
+E:\MVC\mvc\Basic\Basic\bin\System.Web.Razor.xml
+E:\MVC\mvc\Basic\Basic\bin\System.Web.WebPages.xml
+E:\MVC\mvc\Basic\Basic\bin\System.Web.WebPages.Deployment.xml
+E:\MVC\mvc\Basic\Basic\bin\System.Web.WebPages.Razor.xml
+E:\MVC\mvc\Basic\Basic\bin\Newtonsoft.Json.xml
+E:\MVC\mvc\Basic\Basic\bin\Antlr3.Runtime.pdb
+E:\MVC\mvc\Basic\Basic\bin\EntityFramework.xml
+E:\MVC\mvc\Basic\Basic\bin\EntityFramework.SqlServer.xml
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.xml
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.Security.xml
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.Security.Google.xml
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MVC\mvc\Basic\Basic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MVC\mvc\Basic\Basic\obj\Debug\Basic.dll
+E:\MVC\mvc\Basic\Basic\obj\Debug\Basic.pdb
+E:\MVC\mvc\Basic\Basic\obj\Debug\Basic.csprojResolveAssemblyReference.cache

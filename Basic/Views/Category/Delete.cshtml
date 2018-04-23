@@ -1,0 +1,20 @@
+﻿@model Basic.Models.category
+
+@{
+    ViewBag.Title = "Danh mục";
+    ViewBag.ChildUrl = "Xóa";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="panel panel-body border-top-primary">
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        <h3>Are you sure you want to delete <span class="label bg-success">@Html.DisplayFor(model => model.name)</span> ?</h3>
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
